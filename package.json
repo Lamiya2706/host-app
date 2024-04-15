@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "https://lamiya2706.github.io/host-app",
   "scripts": {
     "start": "webpack serve --open",
     "build": "webpack --mode production",

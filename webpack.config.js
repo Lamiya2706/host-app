@@ -52,7 +52,7 @@ module.exports = {
             name: 'host',
             filename: 'remoteEntry.js',
             remotes: {
-                remoteApp: 'remoteApp@/remoteApp/remoteEntry.js',
+                remoteApp: 'remoteApp@https://remote-app2.netlify.app/remoteApp/remoteEntry.js',
             },
         }),
         new HtmlWebpackPlugin({
